@@ -33,3 +33,8 @@ By integrating **AI, satellite technology, and drone capabilities**, Apda-Mitra 
 #Flood Segmenation
 
 ![Unable to load image](assets/flood.png)
+
+
+# Four member team to solve a real- world problem - PREDICT & PROTECT
+@anshikaagupta
+@abhishek8172
