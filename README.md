@@ -38,3 +38,4 @@ By integrating **AI, satellite technology, and drone capabilities**, Apda-Mitra 
 # Four member team to solve a real- world problem - PREDICT & PROTECT
 @anshikaagupta
 @abhishek8172
+@pritu6841
